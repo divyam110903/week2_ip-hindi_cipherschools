@@ -1,0 +1,12 @@
+body{
+  font-family: Arial:
+}
+#main-heading{
+  background-color:#cdcdcd
+}
+.main-section{
+  background-color:yellow;
+}
+p{
+  color:blue;
+}
