@@ -1,0 +1,9 @@
+body{
+  font-family: Arial;
+}
+.text-blue{
+  color:blue;
+}
+.bg-dark{
+  color:black;
+}
