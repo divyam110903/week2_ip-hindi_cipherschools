@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="author" content="harshit">
+<meta name="description" content="meta type tutorial">
+<meta name="keywords" content="lesson,tutorial">
+<title>Document</title>
+</head>
+<body>
+    <div class="headings"
+    <h1>this is heading</h1>
+    <h2>heading 2</h2>
+    <h3>hello</h3>
+    <h4>hello</h4>
+    <h5>hello</h5>
+    <h6>hello</h6
+    <p>lorem50helloLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+     <hr>
+     <p>para 2</p>
+     <a href="https://google.co.in" target="_blank">link</a>
+     <img src="https://th.bing.com/th/id/R.348ce70724a6dbad99b6af8166ebd463?rik=DVtpy9Ys9v6X3A&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f1607%2f4155%2fproducts%2f3D_Logo_Design_S1_blue_WM_1024x1024.png%3fv%3d1540625263&ehk=%2f0isAZKQ6602cnKOrEFBW2uTGDRxnBm54hcEmMR84VI%3d&risl=&pid=ImgRaw&r=0" alt="logo">
+     <h2 class="tableh">table</h2>
+     <table>
+         <thead>
+             <th>first name</th>
+             <th>last name</th>
+         </thead>
+         <tbody>
+             <tr>
+                 <td>harshit</td>
+                 <td>sharama</td>
+             </tr>
+         </tbody>
+     </table>
+     <h2 class="formh">html forms</h2>
+     <form>
+         <label for="username">Username</label>
+         <input type="text" name="" id="username" placeholder="username"><br><br>
+         <label for="password">password</label>
+         <input type="password" name="" id="" placeholder="password">
+         <p> select your gender</p><br><br>
+         <label for="male">male</label>
+         <input type="radio" name="" id="male">
+         <label for="female">female</label>
+         <input type="radio" name="" id="female"<br><br>
+         <input type="submit" value="Sign In">
+     </form>
+     <style>
+       .formh{
+          color:red; 
+       }
+     .headings{
+         background-color:black;
+     } 
+     </style>
+</body>
+</html>
