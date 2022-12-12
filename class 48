@@ -1,0 +1,12 @@
+h2,img{
+  border-bottom:7px outset red;
+  border-top: 6px dotted blue;
+  border-radius:5px;
+
+div{
+    border:8px solid black;
+}
+ 
+p{
+    border: 2px solid yellow;
+}
