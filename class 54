@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML CSS JS</title>
+</head>
+<body>
+<a href="google.com">link 1</a>
+  <a href="">link2</a>
+  <style>
+    a{
+     border:2px solid red;
+      height:100px;
+      margin:20px;
+      padding:20px;
+      width:150px;
+      
+    }
+    a{
+      display:inline-block;
+    }
+  </style>
+</body>
+</html>
