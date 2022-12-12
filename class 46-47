@@ -1,0 +1,32 @@
+/* CSS styles */
+h1 {
+color: #CE5937;
+}
+.h1class{
+  color: yellow;
+}
+#id1{
+  color:blue;
+}
+	
+.heading{
+  color:black;
+}
+
+h1.heading{
+  color:magenta;
+}
+div#container ul.mysongs li{
+  
+  color:red;
+  background-color:#cdcdcd;
+  }
+
+/* _0,1_,1_,3_*/
+
+div#container ul.mysongs li.fav{
+  color:black;
+  background-color: yellow;
+}
+/*old--> 0,0,1,0=10*/
+/* new= 0,1,2,3=123*/
